@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "234496533222",
+    "project_id": "ease-otp",
+    "storage_bucket": "ease-otp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234496533222:android:b27076c3c9644cc94a1127",
+        "android_client_info": {
+          "package_name": "com.easeotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234496533222-46nkjaqpvibg55deaovqqhi41in1qokr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easeotp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "234496533222-73s9itjr5bngbvd6vaomdgetdohtvmgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogeJRa0mpa1AYvtoDuKYvXErZboJ17S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234496533222-73s9itjr5bngbvd6vaomdgetdohtvmgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
